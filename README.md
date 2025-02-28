@@ -1,0 +1,2 @@
+# DEP_project_apple_stock_investigation
+01010101
